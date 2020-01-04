@@ -19,3 +19,19 @@ The basic features needed are :
 7. CredibilityButtons : For each comment, there will be credibility buttons such as "Useful", "Not Useful", "Spam", etc. 
 
 Future Scope : 
+
+## Prerequisite/libraries used:
+  1. Python3
+  2. Django (To install django, open terminal and type pip3 install Django).
+## Few of starting materials
+
+### Git:
+  
+  1. https://github.com/kossiitkgp/git-workshop-2018
+  2. https://education.github.com/git-cheat-sheet-education.pdf
+  3. http://git-school.github.io/visualizing-git/
+  4. https://www.youtube.com/watch?v=P6jD966jzlk
+  
+### Django:
+  1. https://tutorial.djangogirls.org/en/
+  2. https://simpleisbetterthancomplex.com
